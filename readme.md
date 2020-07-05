@@ -8,6 +8,6 @@ This app fetches sunrise and sunset time for a place, given its latitude and lon
 https://sunrise-sunset.org/api for their api.
 
 <h2>Screenshots:</h2>
-<img src="screenshot.jpg" height="20%"/> 
+<img src="screenshot.jpg" height="800"/> 
 
 This project is made just to utilize API services and JSON requests as part of Udemy course.
